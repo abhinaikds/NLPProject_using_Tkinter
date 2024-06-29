@@ -1,1 +1,1 @@
-This is a sentiment analysis project using tkinder library with Rapid API
+This is a sentiment analysis project using tkinter library with Rapid API
